@@ -1,0 +1,9 @@
+Sample ID,Latitude,Longitude,Location,Site,Sample type,E. coli present,AMR present,MDR present,Ceftriaxone,Tetracycline,Ciprofloxacin,Ampicillin,Chloramphenicol,Gentamycin,Streptomycin,Trimethoprim,Prevalence E. coli,Prevalence AMR,Prevalence MDR
+1,-1.8637093,36.7711997,"Kajiado, homestead",Borehole,water,Yes,Yes,Yes,resistant,resistant,sensitive,sensitive,resistant,sensitive,intermediate,resistant,0.8,1,0.75
+2,-1.8637093,36.7711997,"Kajiado, homestead",Borehole,faeces,Yes,Yes,Yes,resistant,sensitive,resistant,intermediate,sensitive,intermediate,resistant,sensitive,0.8,1,0.75
+3,-1.8637093,36.7711997,"Kajiado, homestead",Borehole,faeces,Yes,Yes,Yes,intermediate,resistant,resistant,intermediate,resistant,sensitive,resistant,resistant,0.8,1,0.75
+4,-1.8637093,36.7711997,"Kajiado, homestead",Borehole,faeces,Yes,Yes,No,intermediate,sensitive,intermediate,intermediate,sensitive,sensitive,resistant,sensitive,0.8,1,0.75
+5,-1.890377,36.602486,"Elengata Waus, well nd homestead",Borehole,faeces,Yes,Yes,Yes,sensitive,sensitive,intermediate,intermediate,sensitive,resistant,resistant,sensitive,0.4,0.5,0
+6,-1.890377,36.602486,"Elengata Waus, well nd homestead",Borehole,faeces,Yes,Yes,No,resistant,sensitive,resistant,intermediate,intermediate,sensitive,intermediate,sensitive,0.4,0.5,0
+7,-1.901175,36.604018,Mile 46 Hospital,Borehole,Water,Yes,Yes,Yes,sensitive,resistant,sensitive,resistant,resistant,sensitive,sensitive,resistant,0.4,0,0
+8,-1.901175,36.604018,Mile 46 Hospital,Borehole,Water,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,sensitive,sensitive,intermediate,resistant,0.4,0,0
