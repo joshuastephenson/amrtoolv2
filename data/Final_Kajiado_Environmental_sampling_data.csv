@@ -1,0 +1,216 @@
+Sample ID,Latitude,Longitude,Location,Site,Sample type,E. coli present,AMR present,MDR present,Ceftriaxone,Tetracycline,Ciprofloxacin,Ampicillin,Chloramphenicol,Gentamycin,Streptomycin,Trimethoprim,Prevalence E. coli,Prevalence AMR,Prevalence MDR
+1,-1.8637093,36.7711997,Kajiado homestead,Homestead,Soil,Yes,Yes,Yes,resistant,sensitive,resistant,sensitive,sensitive,resistant,intermediate,sensitive,0.8,1,0.75
+2,-1.8637093,36.7711997,Kajiado homestead,Homestead,Soil,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,sensitive,sensitive,resistant,resistant,0.8,1,0.75
+3,-1.8637093,36.7711997,Kajiado homestead,Homestead,Soil,Yes,Yes,No,intermediate,sensitive,intermediate,resistant,sensitive,intermediate,intermediate,sensitive,0.8,1,0.75
+4,-1.8637093,36.7711997,Kajiado homestead,Homestead,Faeces,Yes,Yes,Yes,sensitive,resistant,intermediate,resistant,sensitive,sensitive,resistant,resistant,0.8,1,0.75
+5,-1.8637093,36.7711997,Kajiado homestead,Homestead,Soil,No,No,No,,,,,,,,,0.8,1,0.75
+6,-1.890377,36.602486,Elangata Wuas homestead,Homestead,Soil,Yes,Yes,No,resistant,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,resistant,0.4,0.5,0
+7,-1.890377,36.602486,Elangata Wuas homestead,Homestead,Soil,Yes,No,No,,,,,,,,,0.4,0.5,0
+8,-1.890377,36.602486,Elangata Wuas homestead,Homestead,Faeces,No,No,No,,,,,,,,,0.4,0.5,0
+9,-1.890377,36.602486,Elangata Wuas homestead,Homestead,Soil,No,No,No,,,,,,,,,0.4,0.5,0
+10,-1.890377,36.602486,Elangata Wuas homestead,Homestead,Soil,No,No,No,,,,,,,,,0.4,0.5,0
+11,-1.901175,36.604018,Mile 46 hospital,Hospital,Soil,Yes,No,No,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,intermediate,0.4,0,0
+12,-1.901175,36.604018,Mile 46 hospital,Hospital,Faeces,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.4,0,0
+13,-1.901175,36.604018,Mile 46 hospital,Hospital,Faeces,No,No,No,,,,,,,,,0.4,0,0
+14,-1.901175,36.604018,Mile 46 hospital,Hospital,Water,No,No,No,,,,,,,,,0.4,0,0
+15,-1.901175,36.604018,Mile 46 hospital,Hospital,Water,No,No,No,,,,,,,,,0.4,0,0
+16,-1.912313,36.829365,Homestead near Kajiado Town,Homestead,Faeces,No,No,No,,,,,,,,,0,0,0
+17,-1.912313,36.829365,Homestead near Kajiado Town,Homestead,Faeces,No,No,No,,,,,,,,,0,0,0
+18,-1.912313,36.829365,Homestead near Kajiado Town,Homestead,Faeces,No,No,No,,,,,,,,,0,0,0
+19,-1.912313,36.829365,Homestead near Kajiado Town,Homestead,Soil,No,No,No,,,,,,,,,0,0,0
+20,-1.912313,36.829365,Homestead near Kajiado Town,Homestead,Soil,No,No,No,,,,,,,,,0,0,0
+21,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Water,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.6,0,0
+22,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Soil,Yes,No,No,,,,,,,,,0.6,0,0
+23,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Faeces,Yes,No,No,,,,,,,,,0.6,0,0
+24,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Faeces,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.6,0,0
+25,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Faeces,Yes,No,No,,,,,,,,,0.6,0,0
+26,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Soil,Yes,No,No,,,,,,,,,0.6,0,0
+27,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Soil,No,No,No,,,,,,,,,0.6,0,0
+28,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Soil,No,No,No,,,,,,,,,0.6,0,0
+29,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Soil,No,No,No,,,,,,,,,0.6,0,0
+30,-1.827136,36.6044826,Dam between Kilonito and Mile 46,Dam,Soil,No,No,No,,,,,,,,,0.6,0,0
+31,-1.777595,36.615022,Kilonito homestead and dam,Homestead,Faeces,Yes,Yes,No,sensitive,sensitive,intermediate,intermediate,intermediate,sensitive,sensitive,resistant,0.17,1,0
+32,-1.777595,36.615022,Kilonito homestead and dam,Homestead,Faeces,No,No,No,,,,,,,,,0.17,1,0
+33,-1.777595,36.615022,Kilonito homestead and dam,Homestead,Faeces,No,No,No,,,,,,,,,0.17,1,0
+34,-1.777595,36.615022,Kilonito homestead and dam,Homestead,Faeces,No,No,No,,,,,,,,,0.17,1,0
+35,-1.777595,36.615022,Kilonito homestead and dam,Homestead,Soil,No,No,No,,,,,,,,,0.17,1,0
+36,-1.777595,36.615022,Kilonito homestead and dam,Homestead,Soil,No,No,No,,,,,,,,,0.17,1,0
+37,-1.777595,36.615022,Kilonito homestead and dam,Dry Dam,Soil,Yes,No,No,,,,,,,,,0.25,0,0
+38,-1.777595,36.615022,Kilonito homestead and dam,Dry Dam,Soil,No,No,No,,,,,,,,,0.25,0,0
+39,-1.777595,36.615022,Kilonito homestead and dam,Dry Dam,Faeces,No,No,No,,,,,,,,,0.25,0,0
+40,-1.777595,36.615022,Kilonito homestead and dam,Dry Dam,Faeces,No,No,No,,,,,,,,,0.25,0,0
+41,-1.788221,36.610794,Kilonito Town,Town,Soil,No,No,No,,,,,,,,,0,0,0
+42,-1.788221,36.610794,Kilonito Town,Town,Soil,No,No,No,,,,,,,,,0,0,0
+43,-1.788221,36.610794,Kilonito Town,Town,Soil,No,No,No,,,,,,,,,0,0,0
+44,-1.788221,36.610794,Kilonito Town,Town,Soil,No,No,No,,,,,,,,,0,0,0
+45,-1.788221,36.610794,Kilonito Town,Town,Soil,No,No,No,,,,,,,,,0,0,0
+46,-1.901957,36.594623,Mile 46 slaughterhouse,Slaughterhouse,Faeces,Yes,Yes,No,sensitive,resistant,intermediate,resistant,sensitive,sensitive,intermediate,sensitive,1,0.5,0
+47,-1.901957,36.594623,Mile 46 slaughterhouse,Slaughterhouse,Outflow,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,1,0.5,0
+48,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,Yes,No,sensitive,sensitive,resistant,sensitive,sensitive,sensitive,intermediate,sensitive,0.78,0.29,0
+49,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,,,,,,,,,0.78,0.29,0
+50,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,intermediate,sensitive,intermediate,sensitive,0.78,0.29,0
+51,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,,,,,,,,,0.78,0.29,0
+52,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,0.78,0.29,0
+53,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,,,,,,,,,0.78,0.29,0
+54,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,,,,,,,,,0.78,0.29,0
+55,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,No,No,No,,,,,,,,,0.78,0.29,0
+56,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,No,No,No,,,,,,,,,0.78,0.29,0
+57,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,No,No,No,,,,,,,,,0.78,0.29,0
+66,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,Yes,No,resistant,sensitive,intermediate,intermediate,intermediate,sensitive,intermediate,resistant,0.78,0.29,0
+67,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,Yes,No,sensitive,sensitive,resistant,intermediate,intermediate,sensitive,sensitive,sensitive,0.78,0.29,0
+68,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,resistant,sensitive,sensitive,sensitive,0.78,0.29,0
+69,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.78,0.29,0
+70,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,,,,,,,,,0.78,0.29,0
+71,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,,,,,,,,,0.78,0.29,0
+72,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,0.78,0.29,0
+73,-1.894099,36.584053,Mile 46 livestock market,Livestock market,Faeces,No,No,No,,,,,,,,,0.78,0.29,0
+58,-1.856812,36.620676,Elangata Wuas homestead and borehole,Borehole,Water,Yes,Yes,Yes,resistant,resistant,sensitive,sensitive,resistant,sensitive,intermediate,resistant,1,1,1
+59,-1.856812,36.620676,Elangata Wuas homestead and borehole,Borehole,Faeces,Yes,Yes,Yes,resistant,sensitive,resistant,intermediate,sensitive,intermediate,resistant,sensitive,1,1,1
+60,-1.856812,36.620676,Elangata Wuas homestead and borehole,Homestead,Faeces,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,sensitive,sensitive,intermediate,intermediate,0.67,0.25,0
+61,-1.856812,36.620676,Elangata Wuas homestead and borehole,Homestead,Soil,Yes,No,No,,,,,,,,,0.67,0.25,0
+62,-1.856812,36.620676,Elangata Wuas homestead and borehole,Homestead,Faeces,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.67,0.25,0
+63,-1.856812,36.620676,Elangata Wuas homestead and borehole,Homestead,Soil,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,0.67,0.25,0
+64,-1.856812,36.620676,Elangata Wuas homestead and borehole,Homestead,Faeces,No,No,No,,,,,,,,,0.67,0.25,0
+65,-1.856812,36.620676,Elangata Wuas homestead and borehole,Homestead,Soil,No,No,No,,,,,,,,,0.67,0.25,0
+74,-1.9330724,36.5034391,Koora dam and homestead,Dam,Faeces,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,intermediate,sensitive,intermediate,resistant,1,0.5,0.5
+75,-1.9330724,36.5034391,Koora dam and homestead,Dam,Water,Yes,No,No,sensitive,sensitive,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,1,0.5,0.5
+76,-1.9330724,36.5034391,Koora dam and homestead,Homestead,Faeces,Yes,Yes,Yes,resistant,resistant,intermediate,resistant,sensitive,sensitive,resistant,resistant,1,0.33,0.33
+77,-1.9330724,36.5034391,Koora dam and homestead,Homestead,Faeces,Yes,No,No,,,,,,,,,1,0.33,0.33
+78,-1.9330724,36.5034391,Koora dam and homestead,Homestead,Faeces,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,intermediate,sensitive,1,0.33,0.33
+79,-1.9293351,36.5136945,Koora homestead,Homestead,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,1.25,0,0
+80,-1.9293351,36.5136945,Koora homestead,Homestead,Faeces,Yes,No,No,sensitive,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,1.25,0,0
+81,-1.9293351,36.5136945,Koora homestead,Homestead,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,1.25,0,0
+82,-1.9293351,36.5136945,Koora homestead,Homestead,Faeces,Yes,No,No,,,,,,,,,1.25,0,0
+83,-1.9293351,36.5136945,Koora homestead,Homestead,Faeces,No,No,No,,,,,,,,,1.25,0,0
+84,-2.0657635,36.5442,Koora well,Well,Water,Yes,Yes,Yes,sensitive,sensitive,intermediate,resistant,sensitive,sensitive,resistant,resistant,0.63,0.5,0.2
+85,-2.0657635,36.5442,Koora well,Well,Water,Yes,Yes,No,intermediate,sensitive,resistant,resistant,sensitive,intermediate,intermediate,sensitive,0.63,0.5,0.2
+86,-2.0657635,36.5442,Koora well,Well,Water,Yes,Yes,Yes,sensitive,resistant,intermediate,resistant,sensitive,sensitive,resistant,sensitive,0.63,0.5,0.2
+87,-2.0657635,36.5442,Koora well,Well,Soil,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,sensitive,sensitive,sensitive,resistant,0.63,0.5,0.2
+88,-2.0657635,36.5442,Koora well,Well,Soil,Yes,Yes,No,sensitive,sensitive,sensitive,resistant,intermediate,intermediate,resistant,sensitive,0.63,0.5,0.2
+89,-2.0657635,36.5442,Koora well,Well,Water,Yes,No,No,,,,,,,,,0.63,0.5,0.2
+90,-2.0657635,36.5442,Koora well,Well,Water,Yes,No,No,,,,,,,,,0.63,0.5,0.2
+91,-2.0657635,36.5442,Koora well,Well,Soil,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,0.63,0.5,0.2
+92,-2.0657635,36.5442,Koora well,Well,Soil,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,intermediate,0.63,0.5,0.2
+93,-2.0657635,36.5442,Koora well,Well,Soil,Yes,No,No,,,,,,,,,0.63,0.5,0.2
+94,-2.0657635,36.5442,Koora well,Well,Water,No,No,No,,,,,,,,,0.63,0.5,0.2
+95,-2.0657635,36.5442,Koora well,Well,Soil,No,No,No,,,,,,,,,0.63,0.5,0.2
+96,-2.0657635,36.5442,Koora well,Well,Soil,No,No,No,,,,,,,,,0.63,0.5,0.2
+97,-2.0657635,36.5442,Koora well,Well,Water,No,No,No,,,,,,,,,0.63,0.5,0.2
+98,-2.0657635,36.5442,Koora well,Well,Water,No,No,No,,,,,,,,,0.63,0.5,0.2
+99,-2.0657635,36.5442,Koora well,Well,Soil,No,No,No,,,,,,,,,0.63,0.5,0.2
+100,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,intermediate,sensitive,intermediate,resistant,1,0.45,0.09
+101,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,Yes,No,sensitive,sensitive,resistant,resistant,sensitive,sensitive,intermediate,sensitive,1,0.45,0.09
+102,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,sensitive,sensitive,resistant,sensitive,1,0.45,0.09
+103,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,Yes,No,resistant,sensitive,intermediate,sensitive,sensitive,sensitive,resistant,sensitive,1,0.45,0.09
+104,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,Yes,No,sensitive,sensitive,resistant,sensitive,sensitive,sensitive,resistant,sensitive,1,0.45,0.09
+105,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,intermediate,intermediate,sensitive,1,0.45,0.09
+106,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,No,No,,,,,,,,,1,0.45,0.09
+107,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Water,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,1,0.45,0.09
+108,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Soil,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,1,0.45,0.09
+109,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Soil,Yes,No,No,,,,,,,,,1,0.45,0.09
+110,-2.266146,36.393575,Ole Seni water hole and well,Water Hole,Soil,Yes,No,No,,,,,,,,,1,0.45,0.09
+111,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,sensitive,intermediate,resistant,sensitive,0.85,0.55,0.27
+112,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,Yes,Yes,sensitive,sensitive,resistant,intermediate,resistant,sensitive,sensitive,resistant,0.85,0.55,0.27
+113,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,sensitive,resistant,resistant,sensitive,0.85,0.55,0.27
+114,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,Yes,No,sensitive,resistant,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,0.85,0.55,0.27
+115,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,Yes,Yes,intermediate,resistant,resistant,sensitive,sensitive,sensitive,resistant,sensitive,0.85,0.55,0.27
+116,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,Yes,No,intermediate,sensitive,intermediate,resistant,sensitive,intermediate,resistant,sensitive,0.85,0.55,0.27
+117,-2.266146,36.393575,Ole Seni water hole and well,Well,Water,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.85,0.55,0.27
+118,-2.266146,36.393575,Ole Seni water hole and well,Well,Water,Yes,No,No,,,,,,,,,0.85,0.55,0.27
+119,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,No,No,,,,,,,,,0.85,0.55,0.27
+120,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,No,No,,,,,,,,,0.85,0.55,0.27
+121,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,Yes,No,No,,,,,,,,,0.85,0.55,0.27
+122,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,No,No,No,,,,,,,,,0.85,0.55,0.27
+123,-2.266146,36.393575,Ole Seni water hole and well,Well,Soil,No,No,No,,,,,,,,,0.85,0.55,0.27
+124,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,Yes,Yes,No,resistant,sensitive,intermediate,sensitive,sensitive,sensitive,resistant,sensitive,0.64,2.33,0
+125,-1.939778,36.612903,Watersource for Mile 46,Water Source,F,Yes,Yes,No,sensitive,sensitive,sensitive,resistant,sensitive,sensitive,intermediate,sensitive,0.64,2.33,0
+126,-1.939778,36.612903,Watersource for Mile 46,Water Source,F,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,sensitive,sensitive,resistant,sensitive,0.64,2.33,0
+127,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,Yes,No,No,,,,,,,,,0.64,2.33,0
+128,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,Yes,No,No,,,,,,,,,0.64,2.33,0
+129,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,Yes,No,No,intermediate,sensitive,intermediate,sensitive,sensitive,intermediate,intermediate,sensitive,0.64,2.33,0
+130,-1.939778,36.612903,Watersource for Mile 46,Water Source,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,sensitive,0.64,2.33,0
+131,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,No,No,No,,,,,,,,,0.64,2.33,0
+132,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,No,No,No,,,,,,,,,0.64,2.33,0
+133,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,No,No,No,,,,,,,,,0.64,2.33,0
+134,-1.939778,36.612903,Watersource for Mile 46,Water Source,Soil,No,No,No,,,,,,,,,0.64,2.33,0
+135,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,Yes,Yes,sensitive,resistant,intermediate,resistant,sensitive,intermediate,resistant,sensitive,0.73,0.27,0.09
+136,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,Yes,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,resistant,sensitive,0.73,0.27,0.09
+137,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,Yes,No,intermediate,sensitive,intermediate,intermediate,sensitive,resistant,resistant,intermediate,0.73,0.27,0.09
+138,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.73,0.27,0.09
+139,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,sensitive,0.73,0.27,0.09
+140,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,intermediate,intermediate,sensitive,0.73,0.27,0.09
+141,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,No,No,,,,,,,,,0.73,0.27,0.09
+142,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,Yes,No,No,,,,,,,,,0.73,0.27,0.09
+143,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Faeces,Yes,No,No,sensitive,sensitive,sensitive,intermediate,sensitive,sensitive,intermediate,sensitive,0.73,0.27,0.09
+144,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,sensitive,0.73,0.27,0.09
+145,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Faeces,Yes,No,No,,,,,,,,,0.73,0.27,0.09
+146,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,No,No,No,,,,,,,,,0.73,0.27,0.09
+147,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,No,No,No,,,,,,,,,0.73,0.27,0.09
+148,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,No,No,No,,,,,,,,,0.73,0.27,0.09
+149,-1.9957573,36.5992922,Homestead near Mile 46,Homestead,Soil,No,No,No,,,,,,,,,0.73,0.27,0.09
+150,-2.082209,36.797094,Bisil slaughterhouse and livestock market,Slaughterhouse,Soil,Yes,Yes,No,sensitive,resistant,intermediate,sensitive,sensitive,sensitive,resistant,sensitive,1,1,0.33
+151,-2.082209,36.797094,Bisil slaughterhouse and livestock market,Slaughterhouse,Faeces,Yes,Yes,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,resistant,1,1,0.33
+152,-2.082209,36.797094,Bisil slaughterhouse and livestock market,Slaughterhouse,Faeces/Water,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,resistant,sensitive,intermediate,resistant,1,1,0.33
+153,-2.082209,36.797094,Bisil slaughterhouse and livestock market,Livestock market,Soil,Yes,Yes,No,sensitive,resistant,intermediate,sensitive,sensitive,sensitive,resistant,sensitive,0.5,1,0
+154,-2.082209,36.797094,Bisil slaughterhouse and livestock market,Livestock market,Soil,No,No,No,,,,,,,,,0.5,1,0
+155,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,Yes,Yes,intermediate,resistant,resistant,intermediate,resistant,sensitive,resistant,resistant,0.87,0.46,0.23
+156,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,Yes,No,intermediate,sensitive,intermediate,intermediate,sensitive,sensitive,resistant,sensitive,0.87,0.46,0.23
+157,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,Yes,No,sensitive,sensitive,intermediate,intermediate,sensitive,resistant,resistant,sensitive,0.87,0.46,0.23
+158,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,Yes,No,resistant,sensitive,resistant,intermediate,intermediate,sensitive,intermediate,sensitive,0.87,0.46,0.23
+159,-2.09745,36.787395,Bisil borehole,Borehole,Water,Yes,Yes,Yes,sensitive,resistant,sensitive,resistant,resistant,sensitive,sensitive,resistant,0.87,0.46,0.23
+160,-2.09745,36.787395,Bisil borehole,Borehole,Water,Yes,Yes,No,resistant,sensitive,intermediate,resistant,sensitive,sensitive,intermediate,resistant,0.87,0.46,0.23
+161,-2.09745,36.787395,Bisil borehole,Borehole,Water,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.87,0.46,0.23
+162,-2.09745,36.787395,Bisil borehole,Borehole,Water,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.87,0.46,0.23
+163,-2.09745,36.787395,Bisil borehole,Borehole,Water,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,intermediate,sensitive,0.87,0.46,0.23
+164,-2.09745,36.787395,Bisil borehole,Borehole,Water,Yes,No,No,,,,,,,,,0.87,0.46,0.23
+165,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.87,0.46,0.23
+166,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.87,0.46,0.23
+167,-2.09745,36.787395,Bisil borehole,Borehole,Faeces,Yes,No,No,,,,,,,,,0.87,0.46,0.23
+168,-2.09745,36.787395,Bisil borehole,Borehole,Water,No,No,No,,,,,,,,,0.87,0.46,0.23
+169,-2.09745,36.787395,Bisil borehole,Borehole,Water,No,No,No,,,,,,,,,0.87,0.46,0.23
+170,-2.095013,36.787075,Bisil river and well,Well,Water,Yes,Yes,No,sensitive,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,resistant,1,0.33,0
+171,-2.095013,36.787075,Bisil river and well,Well,Water,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,1,0.33,0
+172,-2.095013,36.787075,Bisil river and well,Well,Faeces,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,1,0.33,0
+173,-2.095013,36.787075,Bisil river and well,River,Water,Yes,Yes,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,resistant,0.57,1,0.25
+174,-2.095013,36.787075,Bisil river and well,River,Water,Yes,Yes,Yes,resistant,sensitive,intermediate,resistant,sensitive,resistant,resistant,resistant,0.57,1,0.25
+175,-2.095013,36.787075,Bisil river and well,River,Faeces,Yes,Yes,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,resistant,0.57,1,0.25
+176,-2.095013,36.787075,Bisil river and well,River,Faeces,Yes,Yes,No,sensitive,sensitive,sensitive,resistant,sensitive,sensitive,intermediate,sensitive,0.57,1,0.25
+177,-2.095013,36.787075,Bisil river and well,River,Water,No,No,No,,,,,,,,,0.57,1,0.25
+178,-2.095013,36.787075,Bisil river and well,River,Water,No,No,No,,,,,,,,,0.57,1,0.25
+179,-2.095013,36.787075,Bisil river and well,River,Water,No,No,No,,,,,,,,,0.57,1,0.25
+180,-2.145316,36.653592,Lorngosua borehole,Borehole,Faeces,Yes,Yes,Yes,resistant,resistant,resistant,resistant,sensitive,sensitive,intermediate,resistant,0.77,0.5,0.2
+181,-2.145316,36.653592,Lorngosua borehole,Borehole,Faeces,Yes,Yes,No,sensitive,sensitive,resistant,intermediate,sensitive,intermediate,resistant,sensitive,0.77,0.5,0.2
+182,-2.145316,36.653592,Lorngosua borehole,Borehole,Soil,Yes,Yes,No,sensitive,sensitive,resistant,intermediate,sensitive,sensitive,sensitive,sensitive,0.77,0.5,0.2
+183,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,Yes,Yes,No,resistant,sensitive,resistant,intermediate,sensitive,sensitive,intermediate,sensitive,0.77,0.5,0.2
+184,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,Yes,Yes,Yes,resistant,intermediate,intermediate,resistant,resistant,sensitive,intermediate,resistant,0.77,0.5,0.2
+185,-2.145316,36.653592,Lorngosua borehole,Borehole,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,0.77,0.5,0.2
+186,-2.145316,36.653592,Lorngosua borehole,Borehole,Faeces,Yes,No,No,sensitive,sensitive,sensitive,intermediate,sensitive,sensitive,intermediate,sensitive,0.77,0.5,0.2
+187,-2.145316,36.653592,Lorngosua borehole,Borehole,Soil,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.77,0.5,0.2
+188,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.77,0.5,0.2
+189,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,Yes,No,No,,,,,,,,,0.77,0.5,0.2
+190,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,No,No,No,,,,,,,,,0.77,0.5,0.2
+191,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,No,No,No,,,,,,,,,0.77,0.5,0.2
+192,-2.145316,36.653592,Lorngosua borehole,Borehole,Water,No,No,No,,,,,,,,,0.77,0.5,0.2
+193,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Faeces,Yes,Yes,No,resistant,sensitive,resistant,sensitive,sensitive,sensitive,sensitive,sensitive,0.91,0.4,0.2
+194,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Faeces,Yes,Yes,Yes,sensitive,sensitive,intermediate,resistant,sensitive,resistant,resistant,resistant,0.91,0.4,0.2
+195,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Water,Yes,Yes,No,intermediate,sensitive,intermediate,intermediate,sensitive,intermediate,resistant,sensitive,0.91,0.4,0.2
+196,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Faeces,Yes,Yes,Yes,resistant,resistant,resistant,resistant,sensitive,sensitive,resistant,resistant,0.91,0.4,0.2
+197,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Soil,Yes,No,No,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,sensitive,0.91,0.4,0.2
+198,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Soil,Yes,No,No,,,,,,,,,0.91,0.4,0.2
+199,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,soil,Yes,No,No,,,,,,,,,0.91,0.4,0.2
+200,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Soil,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,intermediate,sensitive,0.91,0.4,0.2
+201,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Water,Yes,No,No,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,intermediate,0.91,0.4,0.2
+202,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Water,Yes,No,No,,,,,,,,,0.91,0.4,0.2
+203,-2.10682,36.685045,Lorngosua medical centre,Medical Centre,Soil,No,No,No,,,,,,,,,0.91,0.4,0.2
+204,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Pharmacy,Soil,Yes,Yes,No,sensitive,sensitive,intermediate,resistant,sensitive,sensitive,intermediate,sensitive,1,1,0
+205,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Pharmacy,Soil,Yes,Yes,No,sensitive,sensitive,resistant,intermediate,sensitive,sensitive,resistant,sensitive,1,1,0
+206,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Agrovet,Soil,Yes,Yes,Yes,sensitive,sensitive,resistant,intermediate,sensitive,resistant,resistant,sensitive,1,1,0.5
+207,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Agrovet,Faeces,Yes,Yes,No,sensitive,resistant,sensitive,sensitive,sensitive,sensitive,intermediate,sensitive,1,1,0.5
+208,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Soil,Yes,Yes,No,sensitive,sensitive,resistant,sensitive,sensitive,intermediate,intermediate,sensitive,0.88,0.29,0
+209,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Soil,Yes,Yes,No,sensitive,resistant,sensitive,sensitive,sensitive,sensitive,intermediate,sensitive,0.88,0.29,0
+210,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Soil,Yes,No,No,sensitive,sensitive,intermediate,intermediate,sensitive,sensitive,sensitive,sensitive,0.88,0.29,0
+211,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,sensitive,0.88,0.29,0
+212,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Soil,Yes,No,No,,,,,,,,,0.88,0.29,0
+213,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Soil,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,intermediate,sensitive,0.88,0.29,0
+214,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Faeces,Yes,No,No,sensitive,sensitive,intermediate,sensitive,sensitive,sensitive,sensitive,sensitive,0.88,0.29,0
+215,-1.863709,36.7712,Kajiado Town pharmacy and agrovet,Town,Soil,No,No,No,,,,,,,,,0.88,0.29,0
